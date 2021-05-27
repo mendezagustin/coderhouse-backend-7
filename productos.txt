@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Escuadra",
+		"price": 123.45	
+	},
+	{
+		"title":"Calculadora",
+		"price": 223.45
+	},
+	{
+		"title":"Mesa",
+		"price": 323.45
+	}
+
+
+
+
+
+
+
+]

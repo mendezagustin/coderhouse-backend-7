@@ -1,0 +1,2 @@
+Me gusto mas ejs ya que me parecio el mas facil de usar, con los tags parecido a php.
+Con respecto a pug, me parecio malisimo y no entendi como usarlo.
